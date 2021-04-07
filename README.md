@@ -6,7 +6,7 @@ This is a cross platform mobile app for IOS and Android. Right now, the software
 This is a software which was developed under "BMS GLOBAL BD" company. I work there as a software developer. The software idea was developed by the employer. We also have designers who designed some of the icons, logos and other parts of the software. I was responsible for API manipulation, backend development, frontend development, Testing and deployment. The source code is private since I respect the privacy of the employer competitive advantage of the product.
 
 <h3>App promo video</h3>
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+Youtube Video Link: https://www.youtube.com/watch?v=t7coZ1TMHhc
 
 <h3>App Show case Images</h3>
 <img src="/playTime/Screenshot_20210406-163603.png" width="300" height="600">
