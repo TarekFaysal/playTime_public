@@ -1,5 +1,6 @@
 # playTime_public
-
+<h3>Project Overview</h3>
+**This is a cross platform mobile app for IOS and Android. Right now, the software is in under development which we hope to publish very soon. The app is mainly developed to track Movies and TV Series. You can add your movies to watchList, collection. You can rate the movie as well. The app let's you browse movies in a different genres as well. The app is completely created with an api called [Trackt.tv](https://trakt.docs.apiary.io/) **
 <img src="/playTime/Screenshot_20210406-163603.png" width="300" height="600">
 <img src="/playTime/Screenshot_20210406-163634.png" width="300" height="600">
 <img src="/playTime/Screenshot_20210406-163648.png" width="300" height="600">
