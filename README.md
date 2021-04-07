@@ -12,3 +12,10 @@ This is a cross platform app where a user can track their watched tv shows and m
 <img src="/playTime/Screenshot_20210406-164122.png" width="300" height="600">
 <img src="/playTime/Screenshot_20210406-164131.png" width="300" height="600">
 <img src="/playTime/Screenshot_20210406-164136.png" width="300" height="600">
+<img src="/playTime/Screenshot_20210406-164145.png" width="300" height="600">
+<img src="/playTime/Screenshot_20210406-164202.png" width="300" height="600">
+<img src="/playTime/Screenshot_20210406-164216.png" width="300" height="600">
+<img src="/playTime/Screenshot_20210406-164300.png" width="300" height="600">
+<img src="/playTime/Screenshot_20210406-164309.png" width="300" height="600">
+<img src="/playTime/Screenshot_20210406-164318.png" width="300" height="600">
+<img src="/playTime/Screenshot_20210406-164329.png" width="300" height="600">
